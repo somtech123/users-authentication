@@ -1,0 +1,21 @@
+{
+    "name": "user/auth",
+    "description": "project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "somtech",
+            "email": "oscarchisom11@gmail.com"
+        }
+    ],
+    "autoload": {
+ 
+        "classmap": [
+   
+            "classes"
+   
+        ]
+   
+      },
+    "require": {}
+}
